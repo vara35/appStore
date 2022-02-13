@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  margin: 10px;
+}
+.list-heading {
+  font-size: 14px;
+  color: #7b8794;
+  border: 0;
+  font-weight: 600;
+  background-color: transparent;
+}

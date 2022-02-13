@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  list-style-type: none;
+  height: 23vh;
+  margin: 10px;
+  border-radius: 10px;
+  width: 150px;
+}
+.app-style {
+  width: 85px;
+}
+.app-heading {
+  font-size: 20px;
+  font-family: 'bree serif';
+}
